@@ -1,0 +1,46 @@
+{
+  "type": "component",
+  "name": "test-github",
+  "children": [
+    {
+      "name": "Button",
+      "nodeName": "bln-button",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "xt8YZ8"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "id": "button",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}
